@@ -43,6 +43,10 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 15px auto 0;
 }
 
+.dash-white:after {
+    background: #fff;
+}
+
 /* hEADER */
 
 header {
@@ -116,3 +120,8 @@ bg-danger {
 /* SERVICE */
 
 
+/* PORTFOLIO */
+
+.portfolio {
+    padding: 100px 0;
+}
