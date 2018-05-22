@@ -7,15 +7,32 @@
 
 @media(min-width:768px){
     
+    /*HEADER*/
+    
+    .navbar-light .navbar-nav .nav-link {
+    color: #333b46;
+    padding: 5px 10px;
+    border-bottom: 2px solid transparent;
+    
+    }
+
+    .navbar-light .navbar-nav .nav-link:hover,
+    .navbar-light .navbar-nav .nav-item.active .nav-link {
+    background: transparent;
+    color: #e84c3d;
+    }
+
+    
     
 }
 
 
 
 @media(min-width:992px){
-    html{
-    font-size: 16px;
-}
+    
+    /*HEADER*/
+    
+    
 
 
     
@@ -24,6 +41,7 @@
 
 @media(min-width:1200px){
     
+    /*HEADER*/
     
 }
 
